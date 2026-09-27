@@ -1,0 +1,6 @@
+Clustering_LLF-FCM                               https://github.com/Unipisa/FederatedClustering/tree/b0be259855a9ecef7cd6d0c082405f8601811b4e
+Clustering_federated_clustering                  https://github.com/stallmo/federated_clustering/tree/d655a423a9c94a536b403838033da19a22aa3e62
+Clustering_federated_clustering/cluster_library  https://github.com/stallmo/cluster_library/tree/81ac5985960480a0db2e8c91b31c69e8c213c702
+Clustering_kfed                                  https://github.com/metastableB/kfed/tree/39879fcd8edf58f6a6aa48a8abcc99c9c08779e6
+Clustering_mufc                                  https://github.com/thupchnsky/mufc/tree/be95c75167547aa21556a9feaeed60a0afa59854
+FKDC                                             https://github.com/mlyizhang/FKDC/tree/37f10faa27fbc6bc0335882909cf744b8a2c237e

@@ -1,0 +1,19 @@
+# datasets are downloaded by the user, not committed
+.datasets/
+data/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# local outputs / scratch
+.Images/
+.Merging/
+*.log
+*.tmp
+
+related_methods/*
+!related_methods/github.txt
+.benchmarks/
